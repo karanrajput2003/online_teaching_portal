@@ -27,7 +27,7 @@ const router = createBrowserRouter([
     errorElement: <Error />,
   },
   {
-    path: '/login',
+    path: 'https://online-teaching-portal.vercel.app/login',
     element: <Login />,
   },
   {
